@@ -1,6 +1,8 @@
 # 191.114 Basics of Parallel Computing - Summary Handbook
 
-Welcome! This repository hosts a comprehensive summary handbook for the course **191.114 Basics of Parallel Computing** offered at the Vienna University of Technology (TU Wien).
+Welcome! This repository contains a summary handbook for the course **191.114 Basics of Parallel Computing** offered at the Vienna University of Technology (TU Wien).
+
+**In progress** it is not a definitive version, nor includes exercises
 
 ## Content Overview
 
